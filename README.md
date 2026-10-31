@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**wangshicheng212-lab/wangshicheng212-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shicheng Wang
 
-Here are some ideas to get you started:
+Hello! I am a student at University of Science and Technology of China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- **Name:** Shicheng Wang
+- **Affiliation:** University of Science and Technology of China
+- **Email:** scwang212@mail.ustc.edu.cn
+- **Research Interests:** Computer Vision, Deep Learning
+
+## Contact
+
+Feel free to contact me via email.
+  
